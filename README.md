@@ -1,8 +1,14 @@
+# Urvashi Dhokiya — Senior Full-Stack Developer | Laravel & Nodejs/React Expert
+
+![Laravel](https://img.shields.io/badge/Laravel-E74C3C?logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+
+
+## About Me
 
 🚀 Who I Am
 👋 Hi, I'm Urvashi Dhokiya
-Senior Full-Stack Developer, Tech Lead & Solution Architect with 10+ years of experience in building scalable, high-performance web applications.
-My core expertise lies in PHP Laravel, along with Node.js, React, Vue.js, and modern system architecture.
+I’m a **Senior Full-Stack Developer** with **10+ years experience** building **scalable web applications** using **PHP (Laravel)**, **Node.js**, **React**, and **Vue.js**. I specialize in enterprise-level solutions, APIs, and modern frontend apps.
 I have led teams, designed enterprise-level solutions, and successfully delivered 20+ live production projects including eCommerce platforms, CMS-driven systems, and API-based applications.
 Passionate learner, clean-code advocate, and problem solver.
 
@@ -100,9 +106,10 @@ Here are some types of projects I have worked on:
 
 🔹 Custom Web Portals & CMS Solutions
 
-📫 How to reach me:
+📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/urvashi-dhokiya-3013b811a/)
 
-LinkedIn: https://www.linkedin.com/in/urvashi-dhokiya-3013b811a/
+![Urvashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=1urvashi&show_icons=true&theme=react)
 
 Email: urvashidhokiya8@gmail.com
 
